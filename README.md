@@ -39,6 +39,6 @@ It engages in calming, supportive conversations to help users manage stress, emo
 
 <p align="center">
   <b>Umme Habiba</b><br>
-  <i>Software Engineering Student (4th Semester)</i><br>
+  
   💡 Passionate about <b>AI</b>, <b>Python Development</b> & <b>Creative Design</b>  
 </p>
