@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Chainlit & other config files
+.chainlit/
+.files/
+
+# Environment variables
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# VSCode config (optional)
+.vscode/
+
+# Python virtual environment (if created inside the folder)
+venv/
